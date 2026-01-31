@@ -1,0 +1,17 @@
+# --- Python garbage ---
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.DS_Store
+
+# --- Big Files & Binaries ---
+*.exe
+*.bin
+*.mp4
+
+# --- Ignored Local Files ---
+test_files/
+test.txt
+Backup.sh
+*.sh
